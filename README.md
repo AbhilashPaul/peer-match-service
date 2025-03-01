@@ -113,9 +113,9 @@ response example:
                     "lived_experience_narrative": "During college, I faced severe depression that left me feeling isolated. Staying active through sports and practicing meditation helped me find balance. I want to help others discover the power of movement and mindfulness."
                 },
                 "reason_for_match": [
-                    "Shares the same condition: Depression.",
-                    "Interests align with the adolescent's hobbies: Both value physical activity (cycling/hiking vs. sports/fitness).",
-                    "Michael's lived experience narrative highlights overcoming isolation through activity, which could resonate with a reserved adolescent."
+                    "Shares the same mental health condition (Depression).",
+                    "Has interests in fitness and sports, which aligns with the adolescent's hobbies of hiking and cycling.",
+                    "His lived experience narrative focuses on overcoming isolation through activity, which could resonate with a reserved but outdoorsy adolescent."
                 ]
             },
             {
@@ -136,9 +136,32 @@ response example:
                     "lived_experience_narrative": "Recovering from depression and substance use was a transformative journey for me. Fitness and cooking became my outlets, and I want to inspire others to find their own paths to recovery."
                 },
                 "reason_for_match": [
-                    "Shares the same condition: Depression.",
-                    "Ethan's interest in fitness aligns with the adolescent's hobbies of hiking and cycling.",
-                    "Ethan's narrative focuses on finding outlets for recovery, which could be beneficial for the adolescent."
+                    "Shares the same mental health condition (Depression).",
+                    "Has an interest in fitness, which aligns with the adolescent's hobbies of hiking and cycling.",
+                    "His lived experience narrative focuses on finding outlets for recovery, which could be beneficial for the adolescent."
+                ]
+            },
+            {
+                "peer_supporter_profile": {
+                    "profile_id": 4,
+                    "full_name": "Daniel Kim",
+                    "age": 29,
+                    "gender": "Male",
+                    "selected_interests": [
+                        "Gaming",
+                        "Technology",
+                        "Coding"
+                    ],
+                    "mental_health_history": [
+                        "ADHD",
+                        "Depression"
+                    ],
+                    "lived_experience_narrative": "Growing up with ADHD was challenging because I often felt misunderstood. Gaming and coding became my outlets for creativity and focus. I want to help others embrace their unique strengths."
+                },
+                "reason_for_match": [
+                    "Shares the same mental health condition (Depression).",
+                    "His lived experience narrative focuses on finding outlets for creativity, which could be beneficial for the adolescent.",
+                    "While his interests don't directly overlap, his experience with feeling misunderstood could resonate with a reserved adolescent."
                 ]
             },
             {
@@ -159,15 +182,37 @@ response example:
                     "lived_experience_narrative": "Dealing with OCD and depression was overwhelming at times, but running and volunteering gave me purpose. I hope to inspire others to find strength in their passions."
                 },
                 "reason_for_match": [
-                    "Shares the same condition: Depression.",
-                    "Noah's interest in running is similar to the adolescent's interest in hiking and cycling, indicating a shared appreciation for physical activity.",
-                    "Noah's narrative emphasizes finding purpose through passions, which could be helpful for an adolescent struggling with depression."
+                    "Shares the same mental health condition (Depression).",
+                    "His interest in running is similar to the adolescent's hobbies of hiking and cycling.",
+                    "His lived experience narrative focuses on finding purpose through passions, which could be beneficial for the adolescent."
+                ]
+            },
+            {
+                "peer_supporter_profile": {
+                    "profile_id": 6,
+                    "full_name": "Alex Johnson",
+                    "age": 25,
+                    "gender": "Nonbinary",
+                    "selected_interests": [
+                        "Advocacy",
+                        "Poetry",
+                        "Hiking"
+                    ],
+                    "mental_health_history": [
+                        "Bipolar Disorder Type II"
+                    ],
+                    "lived_experience_narrative": "Living with Bipolar Disorder has been a journey of ups and downs. Writing poetry and spending time in nature have been grounding for me. I'm passionate about helping others navigate their own mental health journeys."
+                },
+                "reason_for_match": [
+                    "Shares an interest in hiking, which aligns with the adolescent's hobbies.",
+                    "Their lived experience narrative focuses on finding grounding through nature, which could resonate with an outdoorsy adolescent.",
+                    "While they don't share the same condition, their experience navigating a mental health journey could still be valuable."
                 ]
             }
         ]
     },
     "metadata": {
-        "run_id": "d1b9ecea-c230-475b-9ec8-d50b5ce1f958",
+        "run_id": "81581bf2-d11c-4380-a548-c6aa36d92818",
         "feedback_tokens": []
     }
 }
