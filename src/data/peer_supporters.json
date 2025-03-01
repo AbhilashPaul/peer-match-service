@@ -1,0 +1,120 @@
+[
+    {
+      "profile_id": 1,
+      "full_name": "Sarah Thompson",
+      "age": 27,
+      "gender": "Female",
+      "selected_interests": ["Art therapy", "Journaling", "Mindfulness"],
+      "mental_health_history": ["Generalized Anxiety Disorder (GAD)", "Panic Disorder"],
+      "lived_experience_narrative": "I struggled with anxiety and panic attacks throughout my teenage years, which made school and socializing difficult. Art therapy and mindfulness helped me regain control of my emotions, and I want to share these tools with others."
+    },
+    {
+      "profile_id": 2,
+      "full_name": "Michael Rivera",
+      "age": 30,
+      "gender": "Male",
+      "selected_interests": ["Sports", "Fitness", "Meditation"],
+      "mental_health_history": ["Depression", "Seasonal Affective Disorder (SAD)"],
+      "lived_experience_narrative": "During college, I faced severe depression that left me feeling isolated. Staying active through sports and practicing meditation helped me find balance. I want to help others discover the power of movement and mindfulness."
+    },
+    {
+      "profile_id": 3,
+      "full_name": "Aisha Patel",
+      "age": 24,
+      "gender": "Female",
+      "selected_interests": ["Music", "Creative writing", "Yoga"],
+      "mental_health_history": ["Post-Traumatic Stress Disorder (PTSD)", "Social Anxiety"],
+      "lived_experience_narrative": "After experiencing trauma as a teenager, I found healing through music and writing. Yoga also became a safe space for me to reconnect with myself. I'm here to support others on their journey to recovery."
+    },
+    {
+      "profile_id": 4,
+      "full_name": "Daniel Kim",
+      "age": 29,
+      "gender": "Male",
+      "selected_interests": ["Gaming", "Technology", "Coding"],
+      "mental_health_history": ["ADHD", "Depression"],
+      "lived_experience_narrative": "Growing up with ADHD was challenging because I often felt misunderstood. Gaming and coding became my outlets for creativity and focus. I want to help others embrace their unique strengths."
+    },
+    {
+      "profile_id": 5,
+      "full_name": "Emily Nguyen",
+      "age": 26,
+      "gender": "Female",
+      "selected_interests": ["Cooking", "Gardening", "Photography"],
+      "mental_health_history": ["Eating Disorder (Anorexia)", "Body Dysmorphic Disorder (BDD)"],
+      "lived_experience_narrative": "Recovering from an eating disorder taught me the importance of self-compassion and finding joy in simple things like cooking and gardening. I want to support others in finding their path to self-love."
+    },
+    {
+      "profile_id": 6,
+      "full_name": "Alex Johnson",
+      "age": 25,
+      "gender": "Nonbinary",
+      "selected_interests": ["Advocacy", "Poetry", "Hiking"],
+      "mental_health_history": ["Bipolar Disorder Type II"],
+      "lived_experience_narrative": "Living with Bipolar Disorder has been a journey of ups and downs. Writing poetry and spending time in nature have been grounding for me. I'm passionate about helping others navigate their own mental health journeys."
+    },
+    {
+      "profile_id": 7,
+      "full_name": "Priya Sharma",
+      "age": 28,
+      "gender": "Female",
+      "selected_interests": ["Reading", "Volunteering", "Yoga"],
+      "mental_health_history": ["Obsessive Compulsive Disorder (OCD)", "Anxiety"],
+      "lived_experience_narrative": "OCD once controlled my life, but therapy and yoga helped me reclaim it. Volunteering has also given me purpose and joy. I hope to inspire others to find their own sources of strength."
+    },
+    {
+        "profile_id": 8,
+        "full_name": "Jessica Lee",
+        "age": 22,
+        "gender": "Female",
+        "selected_interests": ["Painting", "Yoga", "Meditation"],
+        "mental_health_history": ["Anxiety", "Panic Disorder"],
+        "lived_experience_narrative": "As someone who struggled with anxiety and panic attacks during my teenage years, I found peace through painting and meditation. I want to help others find calm in their lives."
+      },
+      {
+        "profile_id": 9,
+        "full_name": "Ethan Walker",
+        "age": 28,
+        "gender": "Male",
+        "selected_interests": ["Fitness", "Cooking", "Traveling"],
+        "mental_health_history": ["Depression", "Substance Use Disorder (in recovery)"],
+        "lived_experience_narrative": "Recovering from depression and substance use was a transformative journey for me. Fitness and cooking became my outlets, and I want to inspire others to find their own paths to recovery."
+      },
+      {
+        "profile_id": 10,
+        "full_name": "Lila Carter",
+        "age": 26,
+        "gender": "Female",
+        "selected_interests": ["Photography", "Nature Walks", "Journaling"],
+        "mental_health_history": ["Post-Traumatic Stress Disorder (PTSD)"],
+        "lived_experience_narrative": "After experiencing trauma, I found solace in photography and journaling. Being in nature helped me reconnect with myself, and I’m passionate about helping others heal."
+      },
+      {
+        "profile_id": 11,
+        "full_name": "Ryan Mitchell",
+        "age": 24,
+        "gender": "Male",
+        "selected_interests": ["Gaming", "Technology", "Music"],
+        "mental_health_history": ["ADHD", "Social Anxiety"],
+        "lived_experience_narrative": "Growing up with ADHD and social anxiety was tough, but gaming and music gave me a sense of belonging. I want to help others feel understood and supported."
+      },
+      {
+        "profile_id": 12,
+        "full_name": "Sophia Hernandez",
+        "age": 29,
+        "gender": "Female",
+        "selected_interests": ["Dance", "Creative Writing", "Mindfulness"],
+        "mental_health_history": ["Bipolar Disorder Type I"],
+        "lived_experience_narrative": "Living with Bipolar Disorder has taught me resilience. Dance and writing have been my creative outlets, and mindfulness has helped me stay grounded. I want to support others in their journeys."
+      },
+      {
+        "profile_id": 13,
+        "full_name": "Noah Kim",
+        "age": 23,
+        "gender": "Male",
+        "selected_interests": ["Running", "Reading", "Volunteering"],
+        "mental_health_history": ["Obsessive Compulsive Disorder (OCD)", "Depression"],
+        "lived_experience_narrative": "Dealing with OCD and depression was overwhelming at times, but running and volunteering gave me purpose. I hope to inspire others to find strength in their passions."
+      }
+    ]
+  
